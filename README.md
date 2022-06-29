@@ -14,13 +14,15 @@ In this project , Automate test case in below flow
 11. Click Send
 12. Verify success message 
 
+
+
+
+## How to run test
+
 To run test case , we can run in 3 ways
 1. From Maven : Right click on Project or pom.xml > click on Run As > Click on Maven test
 2. From TestNG : Right click on Project or testng.xml > click on Run As > Click on TestNG Suite
-3. From Test class file : Right click on class file > on Run As > Click on TestNG Suite
-
-
-## Running Tests
+3. From Test class file : Right click on class file > on Run As > Click on TestNG Test
 
 To run test via command line,
 
